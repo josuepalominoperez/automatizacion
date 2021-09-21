@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="methods" thread-count="2">
+    <test name="OpeningSimpleWeb1">
+        <classes>
+            <class name="demo1.Flipkart"/>
+        </classes>
+    </test>
+    <test name="OpeningSimpleWeb2">
+        <classes>
+            <class name="demo2.SnapDeal"/>
+        </classes>
+    </test>
+
+</suite>

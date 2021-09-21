@@ -1,0 +1,6 @@
+2021-07-22 02:21:17,724 INFO  [UsandoLog4j] New driver instantiated 
+2021-07-22 02:21:17,754 INFO  [UsandoLog4j] Implicit wait applied on the driver for 10 seconds 
+2021-07-22 02:21:26,308 INFO  [UsandoLog4j] Web application launched 
+2021-07-22 02:21:26,547 INFO  [UsandoLog4j] Name sent: Oscar 
+2021-07-22 02:21:26,926 INFO  [UsandoLog4j] Country selected: BAHAMAS 
+2021-07-22 02:21:28,258 INFO  [UsandoLog4j] Browser closed 
